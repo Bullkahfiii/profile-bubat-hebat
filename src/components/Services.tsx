@@ -28,7 +28,7 @@ const Services = () => {
     icon: Trophy,
     title: "Tingkat SMA",
     description: "Fokus pada persiapan UTBK, ujian sekolah, dan pendalaman materi untuk masuk PTN favorit.",
-    features: ["Saintek & Soshum", "UTBK Preparation", "TPS & TKA", "Simulasi Ujian"],
+    features: ["Persiapan UTBK", "Kedinasan", "TPS & TKA", "SAS/SAT"],
     color: "from-blue-200 to-cyan-200",
     borderColor: "border-blue-300",
     rotation: "-rotate-1"
@@ -36,7 +36,7 @@ const Services = () => {
     icon: Target,
     title: "Gap Year",
     description: "Program intensif untuk alumni SMA yang ingin mempersiapkan diri masuk universitas impian.",
-    features: ["Intensive UTBK", "Strategi Belajar", "Mock Test", "Konseling Jurusan"],
+    features: ["Intensif UTBK", "Kedinasan", "Metode Penalaran", "Konseling Jurusan"],
     color: "from-green-200 to-emerald-200",
     borderColor: "border-green-300",
     rotation: "rotate-2"
