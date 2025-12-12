@@ -84,10 +84,7 @@ NEUTRON Bandung 2 memiliki berbagai program terbaik yang bertujuan untuk memberi
             <h3 className="text-3xl font-display font-bold text-foreground">
               Membangun <span className="text-primary">Masa Depan</span> Cerah!
             </h3>
-            <p className="text-foreground/80 leading-relaxed font-body">
-              Sejak berdiri, kami sudah membantu ratusan siswa masuk ke PTN impian mereka. 
-              Tim pengajar kami berpengalaman dan selalu siap bantu kamu sampai benar-benar paham!
-            </p>
+            <p className="text-foreground/80 leading-relaxed font-body">Sejak berdiri, kami sudah membantu ribuan siswa masuk ke PTN impian mereka. Tim pengajar kami berpengalaman dan selalu siap bantu kamu sampai benar-benar paham!</p>
             <p className="text-foreground/80 leading-relaxed font-body">
               Kami percaya bahwa setiap siswa punya potensi luar biasa. Dengan metode belajar 
               yang tepat dan bimbingan yang konsisten, kamu pasti bisa raih impianmu! 💪
